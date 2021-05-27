@@ -8,7 +8,7 @@
   GitGub Fork
   <br>
 </h1>
-<h4 align="center">GitHub Fork Practice</h4>
+<h4 align="center">GitHub Fork Practice and Rules</h4>
 
 <div align="right">
 
